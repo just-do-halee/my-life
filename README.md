@@ -54,6 +54,17 @@
 
 <br>
 
+# [수료증](./certificates/)
+
+- [Andrew Ng](./certificates/Andrew%20Ng/)
+- [Nomad Coders](./certificates/Nomad%20Coders/)
+- [Dream Coding](./certificates/Dream%20Coding/)
+- [Codestates](./certificates/Codestates/)
+- [Udemy](./certificates/Udemy/)
+- [Etc](./certificates/Etc/)
+
+<br>
+
 # 동료 평가
 
 > _" 블록체인 분야에 대한 심도 깊은 이해와 사이드 프로젝트 경험으로 설계부터 구현까지 모든 과정에서 의미 있는 통찰과 기술 리딩을 이끌어주시었다. 무엇보다 블록체인의 트렌드 및 기술적인 한계를 모두 반영하여 설계부터 구현으로 이어져, 실제로 서비스화가 가능한 수준으로 프로젝트의 질을 끌어올리고 그 과정에서 적극적으로 팀원을 리딩해 주시었다. " -_ **_위유랑_**
