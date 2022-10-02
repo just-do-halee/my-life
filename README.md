@@ -42,8 +42,6 @@
   - [`Libly`](https://github.com/just-do-halee/libly): Easy To create NPM packages.
   - [`Myshell`](https://github.com/just-do-halee/myshell): simplify your developer's day.
 
-    <br>
-
   - #### [and so on...](https://github.com/just-do-halee?tab=repositories&q=&type=source&language=&sort=)
 
 <br>
@@ -92,6 +90,4 @@ f. Ethereum의 상태 전이 및 관리 방식.
 
 g. 환전의 역사, 환율의 공식.
 
-... etc
-
-<br>
+...
