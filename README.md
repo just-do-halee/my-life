@@ -114,16 +114,12 @@
 
 a. Bitcoin과 Ethereum 내에서 Bloom filter가 각기 어떻게 사용되고 있는지.
 
-b. 성공한 블록체인들의 Peer Handsake는 어떤 식으로 이루어지고 있는지.
+b. 블록 전파 엔진에서 UDP가 어떤 방식으로 이용되는지.
 
-c. Http로 RPC요청을 받은 후에 Websocket으로 업그레이드를 해야 하는 건지, 기존 TCP연결을 지향해야 하는 건지.
+c. Bitcoin 및 Ethereum, Solana의 멀티쓰레드 이용 방식, GPU 이용 방식.
 
-d. 최초 Peer IP Seeds 획득에 DNS를 어떤 식으로 이용해야 하는지.
+d. Ethereum의 상태 전이 및 관리 방식.
 
-e. Bitcoin 및 Ethereum, Solana의 멀티쓰레드 이용 방식, GPU 이용 방식.
-
-f. Ethereum의 상태 전이 및 관리 방식.
-
-g. 환전의 역사, 환율의 공식.
+e. 환전의 역사, 환율의 공식.
 
 ...
