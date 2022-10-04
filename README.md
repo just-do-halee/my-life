@@ -15,6 +15,12 @@
 <br>
 <br>
 
+[![@just_do_halee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@just_do_halee&layout=compact&langs_count=3&theme=tokyonight)](https://wakatime.com/@just_do_halee)
+
+<br>
+<br>
+<br>
+
 # 생애
 
 열두 살부터 C++, Visual Basic 6, WinAPI, DirectX, ... 등과 게임프로그래머의 꿈을 키우며 여러 개인 프로젝트들을 진행해 왔으나 돌연 스무살 시절 기타 요인들에 의해 다른 길로 전향, 이후 물리학, 수학, 철학 등 흥미 본위로 공부하였고 군복무 후 소설가의 길을 걷고자 수 년 간 소설, 시에 매진하였다. 또 동시에 그림에 대한 욕심도 있어 [그림스타그램](https://www.instagram.com/albedobond/)도 운영하였다. 그러나 매 연이은 낙선과 현실적인 시선들에 의해 겸업해야 하는 길을 모색하다
