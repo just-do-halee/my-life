@@ -39,21 +39,21 @@
 - 만들어 공개한 프로젝트들
 
   - [`Plankcoin`](https://github.com/just-do-halee/plankcoin): The Altcoin.
-  - [`Director`](https://github.com/just-do-halee/director): is a simple, versatile, ergonomic state machine in Rust-lang.
+  - [`Director`](https://github.com/just-do-halee/director): A simple, versatile, ergonomic state machine in Rust-lang.
   - [`Fn-once`](https://github.com/just-do-halee/fn_once): provides a convenient derive macro for a once function.
   - [`Cursor`](https://github.com/just-do-halee/cursor): A more free Rust-Iterator.
   - [`Modern-v`](https://github.com/just-do-halee/modern-v): Most easy way to get and set the mode in any situation (_typescript_).
-  - [`Rusultts`](https://github.com/just-do-halee/rusultts): Modern error handling inspired by Rust-Result type (_typescript_).
+  - [`Rusultts`](https://github.com/just-do-halee/rusultts): Modern error handling inspired from Rust-Result type (_typescript_).
   - [`Allreq`](https://github.com/allreq): Declarative conditional functionality paradigms (_typescript_).
   - [`Mnemonic-seed-js`](https://github.com/just-do-halee/mnemonic-seed-js): Mnemonic and seed generator according to BIP39 (_typescript_).
-  - [`Collectfiles`](https://github.com/just-do-halee/collectfiles): Collects accurate files while running in parallel through directories.
-  - [`Optionee`](https://github.com/just-do-halee/optionee): The Rust macro to creates option structure easily.
-  - [`Secwords`](https://github.com/just-do-halee/secwords): Secure and safe password container.
-  - [`Condex`](https://github.com/just-do-halee/condex): Extract tokens by simple condition expression.
+  - [`Collectfiles`](https://github.com/just-do-halee/collectfiles): Collecting accurate files while running through directories in a parallel way.
+  - [`Optionee`](https://github.com/just-do-halee/optionee): A macro to create option structure.
+  - [`Secwords`](https://github.com/just-do-halee/secwords): Password container which is more secure and safer.
+  - [`Condex`](https://github.com/just-do-halee/condex): Extract tokens with a simple condition expression.
   - [`Argone`](https://github.com/just-do-halee/argone): Most intuitive global cli maker.
   - [`Vep`](https://github.com/just-do-halee/vep): Variable length Extended Pass function.
-  - [`Libly`](https://github.com/just-do-halee/libly): Easy To create NPM packages.
-  - [`Myshell`](https://github.com/just-do-halee/myshell): simplify your developer's day.
+  - [`Libly`](https://github.com/just-do-halee/libly): Easy to create NPM packages.
+  - [`Myshell`](https://github.com/just-do-halee/myshell): Simplify your developer's day.
 
   - #### [and so on...](https://github.com/just-do-halee?tab=repositories&q=&type=source&language=&sort=)
 
