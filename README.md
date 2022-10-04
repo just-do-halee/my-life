@@ -68,6 +68,18 @@
 
 <br>
 
+# 팀 프로젝트
+
+- 2022
+
+  - [Yep, Bee](https://github.com/yepbee) - 5.3 ~ 8.7 ( 3 개월 )
+
+  - [Hackerpunk](https://github.com/just-do-halee/beb-03-second-06-hackerpunk-1) - 4.19 ~ 4.29 ( 10 일 )
+
+  - [CryptoSea](https://github.com/just-do-halee/beb-03-CryptoSea) - 4.8 ~ 4.15 ( 7 일 )
+
+<br>
+
 # [수료증](./certificates/)
 
 - [Andrew Ng](./certificates/Andrew%20Ng/)
