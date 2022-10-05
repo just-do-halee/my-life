@@ -123,3 +123,13 @@ d. Ethereum의 상태 전이 및 관리 방식.
 e. 환전의 역사, 환율의 공식.
 
 ...
+
+<br>
+
+# 기타
+
+<div style="display:flex; flex-direction:column; justify-content: flex-start; align-items: flex-start">
+<img alt="profile-image" src="./images/logo1.png" />
+<h6><a href="./images/reference1.jpg">기업장려금</a> 대상자 (구직중)</h6>
+</div>
+<br>
