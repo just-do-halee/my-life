@@ -7,7 +7,7 @@
 <br>
 </div>
 <div style="display:flex; flex-direction: column; justify-content: center; align-items: center">
-<img alt="profile-image" src="./images/profile1.jpeg" height="550" />
+<img alt="profile-image" src="./images/profile1.jpg" height="550" />
 <h5><p></p>[애플(Apple) 매장에서]</h5>
 </div>
 </div>
@@ -130,6 +130,6 @@ e. 환전의 역사, 환율의 공식.
 
 <div style="display:flex; flex-direction:column; justify-content: flex-start; align-items: flex-start">
 <img alt="profile-image" src="./images/logo1.png" />
-<h6><a href="./images/reference1.jpg">기업장려금</a> 대상자 (구직중)</h6>
+<h6><a href="./images/reference1.jpg">기업장려금</a> 대상자</h6>
 </div>
 <br>
