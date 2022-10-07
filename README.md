@@ -15,6 +15,7 @@
 <br>
 <br>
 
+
 [![@just_do_halee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@just_do_halee&layout=compact&langs_count=3&theme=tokyonight)](https://wakatime.com/@just_do_halee)
 
 <br>
@@ -123,6 +124,17 @@ d. Ethereum의 상태 전이 및 관리 방식.
 e. 환전의 역사, 환율의 공식.
 
 ...
+
+<br>
+
+# 환경
+
+<div style="display:flex; flex-direction: row; align-items: center; width: 275px; justify-content: space-between">
+<img alt="apple-silicon-logo" src="./images/apple_silicon.png" height="36" width="76px" />
+<img alt="warp" src="./images/warp.jpg" height="36" />
+<img alt="lunarvim-logo" src="./images/lunarvim.png" height="36" />
+<img alt="rust-logo" src="./images/rust.png" height="36" />
+</div>
 
 <br>
 
