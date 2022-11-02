@@ -73,7 +73,7 @@
 
 - 2022
 
-  - [Yep, Bee](https://github.com/yepbee) - 5.3 ~ 8.7 ( 3 개월 )
+  - [Yep, Bee](https://github.com/yepbee) - 5.3 ~ 8.7 ( 3 개월 ) ~ [Solana Hackerhouse 발표](https://www.youtube.com/watch?v=RdONKBAWirY)
 
   - [Hackerpunk](https://github.com/just-do-halee/beb-03-second-06-hackerpunk-1) - 4.19 ~ 4.29 ( 10 일 )
 
