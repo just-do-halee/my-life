@@ -25,13 +25,13 @@
 
 열두 살부터 C++, Visual Basic 6, WinAPI, DirectX, ... 등과 게임프로그래머의 꿈을 키우며 여러 개인 프로젝트들을 진행해 왔으나 돌연 스무살 시절 기타 요인들에 의해 다른 길로 전향, 이후 물리학, 수학, 철학 등 흥미 본위로 공부하였고 군복무 후 소설가의 길을 걷고자 수 년 간 소설, 시에 매진하였다. 또 동시에 그림에 대한 욕심도 있어 [그림스타그램](https://www.instagram.com/albedobond/)도 운영하였다. 그러나 매 연이은 낙선과 현실적인 시선들에 의해 겸업해야 하는 길을 모색하다
 
-이 또한 흥미 위주로 전부터 궁금해 하던 인공지능 딥러닝에 관련하여 알아보았고, 스탠포드 대학 Andrew Ng 교수의 Coursera 온라인 강의 전체를 수강, 수료증을 발급 받은 후 [나만의 활성화 함수를 개발](https://github.com/just-do-halee/TIUD)하고자 홀로 이것저것 고군분투하며 연구하였다.
+전부터 궁금해 하던 인공지능 딥러닝에 관련해 찾아보았고, 스탠포드 대학 Andrew Ng 교수의 Coursera 온라인 강의 전체를 수강, 수료증을 발급 받은 후 [나만의 활성화 함수를 개발](https://github.com/just-do-halee/TIUD)하고자 홀로 이것저것 고군분투하며 연구하였다.
 
-시청에서 청년 지원 정책으로 인턴 일을 맡을 수 있었는데 약 7개월 간 시청 총무과에서 근무하며 다시 소설 쓰기에 매진하였다. 그 해 마지막 공모전 낙선 이후, 갑작스레 코인과 주식이 붐이 일기 시작하였고, 부모님의 권유로 뛰어들어 다양한 지식들을 얻어 가며 금융과 기술의 언저리에 실질적으로 발을 들일 수 있었다.
+시청에서 잠깐 인턴 일을 맡을 수 있었는데 약 7개월 간 총무과에 근무하면서 다시 소설 쓰기에 매진하였다. 그 해 마지막 공모전 낙선 이후, 갑작스레 코인과 주식이 붐이 일기 시작하였고, 부모님의 권유로 뛰어들어 다양한 지식을 얻어 가며 금융과 기술의 언저리에 실질적으로 발을 들일 수 있었다.
 
-2021년 2월쯤 다양한 블록체인 합의 알고리즘 및 기술에 부합하는 새로운 철학 등에 매료되어 어릴 적부터 품어 왔던 아직 세상에 없는 것을 창조하고자 하는 욕망에 이끌려 [나만의 블록체인](https://github.com/blackbody-foundation/blackbody/)을 만들고자 결심했고, 다양한 리소스와 다수의 인터넷 강의를 거쳐 결국에는 ['노마드코더' 상위 0.39%의 학생이 되었다.](https://nomadcoders.co/users/dohalee/) 개중 고가의 '우버이츠 클론코딩' 강의는 사이트 내 '리액트 JS. NextJS. 캐럿마켓' 총 세 가지 강의의 영어 번역을 직접 맡아 장학생으로서 받은 보상으로, [노마드코더 역대 장학생 리스트](https://www.notion.so/54b0ee9fd5df4d89bc8ae304295ab197/)에서 확인할 수 있다(이도하).
+2021년 2월 다양한 블록체인 합의 알고리즘 및 기술에 부합하는 새로운 철학 등에 매료되어 어릴 적부터 품어 왔던 아직 세상에 없는 것을 창조하고자 하는 욕망에 이끌려 [나만의 블록체인](https://github.com/blackbody-foundation/blackbody/)을 만들고자 결심했고, 다양한 리소스와 다수의 인터넷 강의를 거쳐 끝내는 ['노마드코더' 상위 0.39%의 학생이 되었다.](https://nomadcoders.co/users/dohalee/) 개중 '우버이츠 클론코딩' 강의는 사이트 내 '리액트 JS. NextJS. 캐럿마켓' 총 세 가지 강의의 영어 번역을 직접 맡아 받은 보상으로, [노마드코더 역대 장학생 리스트](https://www.notion.so/54b0ee9fd5df4d89bc8ae304295ab197/)에서 확인할 수 있다(이도하).
 
-2021년 12월 27일, 관련한 것들을 독학하던 그때, '코드스테이츠 블록체인 부트캠프 과정' 광고글이 눈에 들어왔고, 일말의 고민 없이 등록 후 2022년 6월 10일까지 최종 880시간을 단 한 시간도 빠지지 않고 수료하였다. 이때 맡았던 총 세 가지 프로젝트는 'NFT Marketplace', 'Community Website based Token economy', 'SNS based M2E and ReFi'로, 이전까지 항상 혼자서 개발해오던 그에게 팀과 함께하고 팀을 이끌 수 있는 경험을 겪게 하였다. 앞의 두 프로젝트는 그가 팀장을 맡았고 마지막 한 프로젝트는 일종의 CTO역을 맡았다. 수료 전까지 그가 갈고닦았던 기술 스택은 **_Javascript_**, **_Typescript_**, **_ReactJS_**, **_Styled-component_**, **_Framer-motion_**, **_Redux_**, **_NodeJS_**, **_Express_**, **_NestJS_**, **_GraphQL_**, **_PostgreSQL_**, **_TypeORM_**, **_Jest_**, **_Heroku_**, **_Netlify_**, **_Amazon S3_** 등의 Web단이 있고, **_Solidity_**, **_Truffle_**, **_Hardhat_**, **_Ganache_**, **_Solana_**, **_Anchor_**, **_Arweave_**, **_IPFS_** 등 블록체인 DApp단이 있었으며, 현재는 2021년 초창기부터 꾸준히 해온 **_Rust_** 를 이용하여 [새로운 형태의 블록체인을 만들고자 고군분투](https://github.com/just-do-halee/plankcoin/)하고 있다. 그는 2021년 6월, WakaTime에 가입한 이후로 [약 2222시간 가량(2022년 10월 2일 기준)을 순전한 코딩과 함께](https://wakatime.com/@just_do_halee) 보내고 있다. [공부하고 연구해온 시간들](https://github.com/just-do-halee/TIL-dev)은 제외한 것이다.
+2021년 12월 27일, 관련한 것들을 독학하던 중, '코드스테이츠 블록체인 부트캠프 과정' 광고가 눈에 들어왔고, 단 하나의 고민 없이 등록 후 2022년 6월 10일까지 최종 880시간을 완전히 수료하였다. 이때 총 세 가지 프로젝트를 완수했는데, 'NFT Marketplace', 'Community Website based Token economy', 'SNS based M2E and ReFi'로, 이전까지 항상 혼자서 개발해오던 그에게 팀과 함께하고 팀을 이끌어 내는 경험을 하게 하였다. 앞의 두 프로젝트는 그가 팀장을 맡았고 마지막 한 프로젝트는 일종의 CTO역을 맡았다. 수료 전 그가 쌓았던 기술 스택은 **_Javascript_**, **_Typescript_**, **_ReactJS_**, **_Styled-component_**, **_Framer-motion_**, **_Redux_**, **_NodeJS_**, **_Express_**, **_NestJS_**, **_GraphQL_**, **_PostgreSQL_**, **_TypeORM_**, **_Jest_**, **_Heroku_**, **_Netlify_**, **_Amazon S3_** 등의 Web단과, **_Solidity_**, **_Truffle_**, **_Hardhat_**, **_Ganache_**, **_Solana_**, **_Anchor_**, **_Arweave_**, **_IPFS_** 등 블록체인쪽 DApp단이었다. 현재는 2021년 초부터 꾸준히 해온 **_Rust_** 를 이용하여 [새로운 형태의 블록체인을 만들고자 고군분투](https://github.com/just-do-halee/plankcoin/)하고 있다([Go도 하고 있다](https://github.com/just-do-halee/gowcoin/)). 그는 2021년 6월, WakaTime에 가입한 이후로 [약 2277시간 가량(2022년 11월 2일 기준)을 순전한 코딩과 함께](https://wakatime.com/@just_do_halee) 보내고 있다. [공부하고 연구해온 시간들](https://github.com/just-do-halee/TIL-dev)은 제외한 것이다.
 
 <br>
 
@@ -40,6 +40,7 @@
 - 만들어 공개한 프로젝트들
 
   - [`Plankcoin`](https://github.com/just-do-halee/plankcoin): The Altcoin.
+  - [`Gowcoin`](https://github.com/just-do-halee/gowcoin): Plankcoin in Go.
   - [`Director`](https://github.com/just-do-halee/director): A simple, versatile, ergonomic state machine in Rust-lang.
   - [`Fn-once`](https://github.com/just-do-halee/fn_once): provides a convenient derive macro for a once function.
   - [`Cursor`](https://github.com/just-do-halee/cursor): A more free Rust-Iterator.
