@@ -130,11 +130,12 @@ e. 환전의 역사, 환율의 공식.
 
 # 환경
 
-<div style="display:flex; flex-direction: row; align-items: center; width: 275px; justify-content: space-between">
+<div style="display:flex; flex-direction: row; align-items: center; width: 300px; justify-content: space-between">
 <img alt="apple-silicon-logo" src="./images/apple_silicon.png" height="36" width="76px" />
 <img alt="warp" src="./images/warp.jpg" height="36" />
 <img alt="lunarvim-logo" src="./images/lunarvim.png" height="36" />
 <img alt="rust-logo" src="./images/rust.png" height="36" />
+<img alt="go-logo" src="./images/go.png" height="36" />
 </div>
 
 <br>
