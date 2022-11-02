@@ -140,6 +140,20 @@ e. 환전의 역사, 환율의 공식.
 
 <br>
 
+# 연락
+
+E-mail: just.do.halee@gmail.com  
+Telegram: [@just_do_halee](./images/telegram.jpg)  
+Twitter: [@do_halee](https://twitter.com/do_halee)  
+Instagram: [@albedobond](https://www.instagram.com/albedobond)  
+Medium: [@just.do.halee](https://medium.com/@just.do.halee)  
+Notion: [Doha Lee](https://www.notion.so/PLANNING-2d22740c623b469a8a12ec7422b52e15)  
+Discord: [just-do-halee#7955](#)  
+Slack: just.do.halee@gmail.com  
+Github: [just-do-halee](https://github.com/just-do-halee)
+
+<br>
+
 # 기타
 
 <div style="display:flex; flex-direction:column; justify-content: flex-start; align-items: flex-start">
