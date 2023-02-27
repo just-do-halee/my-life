@@ -31,7 +31,7 @@
 
 2021년 2월 다양한 블록체인 합의 알고리즘 및 기술에 부합하는 새로운 철학 등에 매료되어 어릴 적부터 품어 왔던 아직 세상에 없는 것을 창조하고자 하는 욕망에 이끌려 [나만의 블록체인](https://github.com/blackbody-foundation/blackbody/)을 만들고자 결심했고, 다양한 리소스와 다수의 인터넷 강의를 거쳐 끝내는 ['노마드코더' 상위 0.39%의 학생이 되었다.](https://nomadcoders.co/users/dohalee/) 개중 '우버이츠 클론코딩' 강의는 사이트 내 '리액트 JS. NextJS. 캐럿마켓' 총 세 가지 강의의 영어 번역을 직접 맡아 받은 보상으로, [노마드코더 역대 장학생 리스트](https://www.notion.so/54b0ee9fd5df4d89bc8ae304295ab197/)에서 확인할 수 있다(이도하).
 
-2021년 12월 27일, 관련한 것들을 독학하던 중, '코드스테이츠 블록체인 부트캠프 과정' 광고가 눈에 들어왔고, 단 하나의 고민 없이 등록 후 2022년 6월 10일까지 최종 880시간을 완전히 수료하였다. 이때 총 세 가지 프로젝트를 완수했는데, 'NFT Marketplace', 'Community Website based Token economy', 'SNS based M2E and ReFi'로, 이전까지 항상 혼자서 개발해오던 그에게 팀과 함께하고 팀을 이끌어 내는 경험을 하게 하였다. 앞의 두 프로젝트는 그가 팀장을 맡았고 마지막 한 프로젝트는 일종의 CTO역을 맡았다. 수료 전 그가 쌓았던 기술 스택은 **_Javascript_**, **_Typescript_**, **_ReactJS_**, **_Styled-component_**, **_Framer-motion_**, **_Redux_**, **_NodeJS_**, **_Express_**, **_NestJS_**, **_GraphQL_**, **_PostgreSQL_**, **_TypeORM_**, **_Jest_**, **_Heroku_**, **_Netlify_**, **_Amazon S3_** 등의 Web단과, **_Solidity_**, **_Truffle_**, **_Hardhat_**, **_Ganache_**, **_Solana_**, **_Anchor_**, **_Arweave_**, **_IPFS_** 등 블록체인쪽 DApp단이었다. 현재는 2021년 초부터 꾸준히 해온 **_Rust_** 를 이용하여 [새로운 형태의 블록체인을 만들고자 고군분투](https://github.com/just-do-halee/plankcoin/)하고 있다. 그는 2021년 6월, WakaTime에 가입한 이후로 [약 2447시간 가량(2022년 12월 12일 기준)을 순전한 코딩과 함께](https://wakatime.com/@just_do_halee) 보내고 있다. [공부하고 연구해온 시간들](https://github.com/just-do-halee/TIL-dev)은 제외한 것이다.
+2021년 12월 27일, 관련한 것들을 독학하던 중, '코드스테이츠 블록체인 부트캠프 과정' 광고가 눈에 들어왔고, 단 하나의 고민 없이 등록 후 2022년 6월 10일까지 최종 880시간을 완전히 수료하였다. 이때 총 세 가지 프로젝트를 완수했는데, 'NFT Marketplace', 'Community Website based Token economy', 'SNS based M2E and ReFi'로, 이전까지 항상 혼자서 개발해오던 그에게 팀과 함께하고 팀을 이끌어 내는 경험을 겪게 하였다. 앞의 두 프로젝트는 그가 팀장을 맡았고 마지막 한 프로젝트는 일종의 CTO역을 맡았다. 수료 전 그가 쌓았던 기술 스택은 **_Javascript_**, **_Typescript_**, **_ReactJS_**, **_Styled-component_**, **_Framer-motion_**, **_Redux_**, **_NodeJS_**, **_Express_**, **_NestJS_**, **_GraphQL_**, **_PostgreSQL_**, **_TypeORM_**, **_Jest_**, **_Heroku_**, **_Netlify_**, **_Amazon S3_** 등의 Web단과, **_Solidity_**, **_Truffle_**, **_Hardhat_**, **_Ganache_**, **_Solana_**, **_Anchor_**, **_Arweave_**, **_IPFS_** 등 블록체인쪽 DApp단이었다. 현재는 2021년 초부터 꾸준히 해온 **_Rust_** 를 이용하여 [새로운 형태의 블록체인을 만들고자 고군분투](https://github.com/just-do-halee/plankcoin/)하고 있다. 그는 2021년 6월, WakaTime에 가입한 이후로 [약 2506시간 가량(2023년 2월 27일 기준)을 순전한 코딩과 함께](https://wakatime.com/@just_do_halee) 보내고 있다. [공부하고 연구해온 시간들](https://github.com/just-do-halee/TIL-dev)은 제외한 것이다.
 
 <br>
 
@@ -60,6 +60,7 @@
   - [`Argone`](https://github.com/just-do-halee/argone): Most intuitive global cli maker.
   - [`Vep`](https://github.com/just-do-halee/vep): Variable length Extended Pass function.
   - [`Libly`](https://github.com/just-do-halee/libly): Easy to create NPM packages.
+  - [`Near-contract`](https://github.com/just-do-halee/near-contract): The most exciting Near Contract template.
   - [`Myshell`](https://github.com/just-do-halee/myshell): Simplify your developer's day.
 
   - #### [and so on...](https://github.com/just-do-halee?tab=repositories&q=&type=source&language=&sort=)
@@ -150,7 +151,7 @@ e. 환전의 역사, 환율의 공식.
 E-mail: just.do.halee@gmail.com  
 Telegram: [@just_do_halee](./images/telegram.jpg)  
 Twitter: [@do_halee](https://twitter.com/do_halee)  
-Instagram: [@albedobond](https://www.instagram.com/albedobond)  
+Instagram: [@do.ha.lee](https://www.instagram.com/do.ha.lee)  
 Medium: [@just.do.halee](https://medium.com/@just.do.halee)  
 Notion: [Doha Lee](https://www.notion.so/PLANNING-2d22740c623b469a8a12ec7422b52e15)  
 Discord: [just-do-halee#7955](#)  
